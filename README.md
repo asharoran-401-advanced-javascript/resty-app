@@ -6,8 +6,10 @@
 
 ### Links and Resources
 * lab-28 [submission PR](https://github.com/asharoran-401-advanced-javascript/resty-app/pull/1)
-* lab 29 [submission PR]()
+* lab 29 [submission PR](https://github.com/asharoran-401-advanced-javascript/resty-app/pull/2)
 ### tree for src
+
+#### lab-28
 ```
 ├── app.js
 ├── component
@@ -20,6 +22,32 @@
 │   └── header
 │       ├── header.js
 │       └── header.scss
+└── index.js
+```
+
+#### lab-29-30
+```
+├── __tests__
+├── app.js
+├── component
+│   ├── body
+│   │   ├── body.js
+│   │   └── body.scss
+│   ├── form
+│   │   ├── form.js
+│   │   └── form.scss
+│   ├── header
+│   │   ├── header.js
+│   │   └── header.scss
+│   ├── history
+│   │   ├── history.js
+│   │   └── history.scss
+│   ├── home
+│   │   ├── home.js
+│   │   └── home.scss
+│   └── nav
+│       ├── nav.js
+│       └── nav.scss
 └── index.js
 ```
 

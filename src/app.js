@@ -3,6 +3,7 @@ import React from 'react';
 import Header from './component/header/header.js';
 import Form from './component/form/form.js';
 import Body from './component/body/body.js';
+import { BrowserRouter } from 'react-router-dom';
 
 class App extends React.Component{
   constructor (props){
@@ -15,11 +16,13 @@ class App extends React.Component{
   }
   render(){
     return(
-      <>
-        <Header />
-        <Form update={this.handleForm}/>
-        <Body  response={this.state}/>
-      </>
+      <BrowserRouter>
+        <>
+          <Header />
+          <Form update={this.handleForm}/>
+          <Body  response={this.state}/>
+        </>
+      </BrowserRouter>
     );
   }
 }
