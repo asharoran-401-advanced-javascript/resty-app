@@ -6,6 +6,7 @@
 
 ### Links and Resources
 * lab-28 [submission PR](https://github.com/asharoran-401-advanced-javascript/resty-app/pull/1)
+* lab 29 [submission PR]()
 ### tree for src
 ```
 ├── app.js
@@ -30,6 +31,7 @@
 
 #### UML 
 * UML Lab-28 : ![alt text](image/lab-28.jpg)
+* UML Lab-29 : ![alt text]()
 
 ### Deploy URL
 [https://hardcore-hawking-3681a0.netlify.com/]
