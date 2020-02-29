@@ -5,7 +5,7 @@
 ### Author: As-har oran
 
 ### Links and Resources
-* [submission PR]()
+* lab-28 [submission PR](https://github.com/asharoran-401-advanced-javascript/resty-app/pull/1)
 ### tree for src
 ```
 ├── app.js
