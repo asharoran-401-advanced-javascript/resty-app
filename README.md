@@ -30,3 +30,6 @@
 
 #### UML 
 * UML Lab-28 : ![alt text](image/lab-28.jpg)
+
+### Deploy URL
+[https://hardcore-hawking-3681a0.netlify.com/]
